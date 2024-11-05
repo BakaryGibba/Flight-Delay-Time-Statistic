@@ -23,12 +23,13 @@ The application requires the following Python libraries:
 - `httpx==0.20`
 
 Install all dependencies with:
-```bash
 python3.11 -m pip install packaging pandas dash
 pip3 install httpx==0.20 plotly
-----
 
 
 
-https://github.com/user-attachments/assets/3c196f58-ec70-4be8-85b6-57a760e78955
+
+
+
+https://github.com/user-attachments/assets/70e693b7-c04d-4262-9b19-4c4deda0a4a7
 
