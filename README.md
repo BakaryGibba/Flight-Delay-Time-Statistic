@@ -1,4 +1,4 @@
-# Flight Delay Analysis Dashboard
+# Flight Delay Time Statistic Dashboard
 
 This project is a Dash application for visualizing various types of flight delays from 2010 to 2020. The dashboard provides insights into monthly delay trends by carrier, weather, national air system, security, and late aircraft categories, segmented by reporting airline.
 
