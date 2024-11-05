@@ -26,7 +26,7 @@ Install all dependencies with:
 ```bash
 python3.11 -m pip install packaging pandas dash
 pip3 install httpx==0.20 plotly
-
+----
 
 
 
